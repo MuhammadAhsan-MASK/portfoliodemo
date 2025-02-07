@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 15px;
+    font-size: 24px;
+}
+
+.intro img {
+    width: 50%;
+    max-width: 400px;
+    margin: 20px 0;
+    border-radius: 10px;
+}
+
+p {
+    font-size: 18px;
+    width: 80%;
+    margin: 10px auto;
+    color: #333;
+}
+
+.features {
+    background: #ddd;
+    padding: 20px;
+}
+
+
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    font-size: 18px;
+    padding: 5px 0;
+}
+
+
+code{
+    font-size: 18px;
+    width: 80%;
+    margin: 10px auto;
+    color: #333;
+
+
+}
